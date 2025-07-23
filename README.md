@@ -2,7 +2,7 @@
 
 **TaskBuddy** is a sleek and efficient task management web app built with **ReactJS**. It enables users to manage daily tasks with ease — add, edit, delete, and track progress of all your tasks with a user-friendly interface.
 
-![TaskBuddy Screenshot](./path/to/screenshot.png) <!-- Replace this with actual image path if hosted -->
+![TaskBuddy Screenshot](./taskbuddy.png) <!-- Replace this with actual image path if hosted -->
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 📸 Screenshot
 
-![App UI](./path/to/c075fcec-6e2a-4b4a-ab5b-77ed384daa95.png)
+![App UI](./taskbuddy.png)
 
 ---
 
