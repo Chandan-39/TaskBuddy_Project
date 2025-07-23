@@ -8,13 +8,12 @@
 
 ## 🚀 Features
 
-- ✅ **Add Tasks** – Instantly add tasks with priority and category.
-- ✏️ **Update Tasks** – Click a task to edit its name or attributes.
-- 🗑️ **Delete Tasks** – Remove tasks individually.
-- 🚫 **Clear All Tasks** – One-click delete all tasks.
-- 📊 **Progress Tracker** – Real-time progress bar to track task completion.
-- 📂 **Priority & Category Filters** – Dropdowns to organize tasks based on importance and type.
-
+- **Add Task** – Instantly add tasks with priority and category.
+- **Delete** – Remove tasks individually.
+- **Clear All Tasks** – One-click delete all tasks.
+- **Progress Tracker** – Real-time progress bar to track task completion.
+- **Complete** - One-click to complete the task individually.
+- **Undo** - One-click to undo the task. 
 ---
 
 ## 📸 Screenshot
