@@ -1,15 +1,51 @@
-TaskBuddy is a powerful task management app built using ReactJS. It helps users manage daily tasks with ease — add, update, delete, track progress, and clear all tasks with just one click!
+# 📝 TaskBuddy
 
-Features
-Add Tasks: Users can add new tasks to the list.
-Update Tasks: Users can edit the details of existing tasks.
-Delete Tasks: Users can remove tasks from the list.
-Clear All Tasks: Users can clear all tasks with a single click.
-Progress Tracker: Visual representation of the task completion status.
-Usage
-Adding Tasks: Enter task details and click "Add Task" to add a new task.
-Updating Tasks: Click on a task to edit its details.
-Deleting Tasks: Click the trash icon next to a task to delete it.
-Clearing All Tasks: Click the "Clear All Tasks" button to remove all tasks.
-Progress Tracker: View the progress of your tasks in the progress tracker.
+**TaskBuddy** is a sleek and efficient task management web app built with **ReactJS**. It enables users to manage daily tasks with ease — add, edit, delete, and track progress of all your tasks with a user-friendly interface.
+
+![TaskBuddy Screenshot](./path/to/screenshot.png) <!-- Replace this with actual image path if hosted -->
+
+---
+
+## 🚀 Features
+
+- ✅ **Add Tasks** – Instantly add tasks with priority and category.
+- ✏️ **Update Tasks** – Click a task to edit its name or attributes.
+- 🗑️ **Delete Tasks** – Remove tasks individually.
+- 🚫 **Clear All Tasks** – One-click delete all tasks.
+- 📊 **Progress Tracker** – Real-time progress bar to track task completion.
+- 📂 **Priority & Category Filters** – Dropdowns to organize tasks based on importance and type.
+
+---
+
+## 📸 Screenshot
+
+![App UI](./path/to/c075fcec-6e2a-4b4a-ab5b-77ed384daa95.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ ReactJS
+- JavaScript (ES6)
+- HTML5 + CSS3
+
+---
+
+## 📦 Installation
+
+To run this project locally:
+
+```bash
+# Clone the repo
+git clone https://github.com/Chandan-39/TaskBuddy_Project.git
+
+# Go into the project folder
+cd TaskBuddy_Project
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
 
